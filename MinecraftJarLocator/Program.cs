@@ -113,14 +113,14 @@ namespace MinecraftJarLocator
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Minecraft Jar Finder v0.0.1 by craftycodie");
+            Console.WriteLine("Minecraft Jar Locator v0.0.1 by craftycodie");
             Console.WriteLine();
 
 
             if (args.Length < 1)
             {
                 Console.WriteLine("Please run this program in command prompt with the path of your choice like so:");
-                Console.WriteLine("MinecraftJarFinderv0.0.1.exe \"C:\\Documents and Settings\\User\\Application Data\\Sun\\Java\\Deployment\\\"");
+                Console.WriteLine("MinecraftJarLocator.exe \"C:\\Documents and Settings\\User\\Application Data\\Sun\\Java\\Deployment\\\"");
                 Console.WriteLine();
                 Console.WriteLine("Happy Hunting!");
                 Console.WriteLine();
