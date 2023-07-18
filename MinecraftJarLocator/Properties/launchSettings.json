@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MinecraftJarLocator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\codie\\Downloads\\Deployment\\Deployment"
+    }
+  }
+}
